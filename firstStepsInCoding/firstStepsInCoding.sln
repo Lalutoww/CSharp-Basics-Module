@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To10", "Nums1To10\Nums
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{8C5FA62D-D3F0-48DE-8683-92014F75C0A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inchesToCm", "inchesToCm\inchesToCm.csproj", "{674F9D53-8396-45C2-BFD2-40447C62E5D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8C5FA62D-D3F0-48DE-8683-92014F75C0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5FA62D-D3F0-48DE-8683-92014F75C0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5FA62D-D3F0-48DE-8683-92014F75C0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674F9D53-8396-45C2-BFD2-40447C62E5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674F9D53-8396-45C2-BFD2-40447C62E5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674F9D53-8396-45C2-BFD2-40447C62E5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674F9D53-8396-45C2-BFD2-40447C62E5D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
